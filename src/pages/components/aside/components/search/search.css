@@ -1,0 +1,29 @@
+.aside__search {
+  width: 249px;
+  height: 56px;
+  border-radius: 36px;
+  background: #302d45;
+  margin: 0 auto;
+  margin-bottom: 48px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.aside__search_image {
+  padding: 16px 0;
+  padding-left: 16px;
+  padding-top: 20px;
+}
+
+#aside__search_input {
+  border: none;
+  outline: none;
+  background: transparent;
+  color: white;
+  height: 24px;
+  font-family: "Golos Text", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  width: 180px;
+}

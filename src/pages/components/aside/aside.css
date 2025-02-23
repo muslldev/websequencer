@@ -1,0 +1,9 @@
+.aside {
+  min-width: 289px;
+  height: 1048px;
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  background: #25223c;
+}

@@ -1,0 +1,20 @@
+.aside__header {
+  display: flex;
+  margin: 34px auto 32px;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+
+.aside__header_logo {
+  cursor: pointer;
+}
+
+.aside__header_title {
+  font-family: "Golos Text", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  color: #fff;
+  text-align: center;
+  height: 28px;
+}

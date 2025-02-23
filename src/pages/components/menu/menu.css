@@ -1,0 +1,10 @@
+.menu {
+  margin: 0 50px;
+  margin-top: 34px;
+}
+
+.menu__projects {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 48px;
+}

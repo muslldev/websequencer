@@ -1,0 +1,27 @@
+.aside__user {
+  width: 257px;
+  height: 88px;
+  border-top: 0.5px solid #d4d4d4;
+  margin: 0 16px;
+  position: absolute;
+  bottom: 20px;
+}
+
+.aside__user_btn {
+  width: 189px;
+  height: 40px;
+  gap: 20px;
+  display: flex;
+  margin: 24px auto;
+  border: none;
+  align-items: center;
+  background: transparent;
+  cursor: pointer;
+}
+
+.aside__user_name {
+  font-family: "Golos Text", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: white;
+}
